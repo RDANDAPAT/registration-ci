@@ -1,0 +1,7 @@
+.navbar-nav li:hover .dropdown-menu {
+    display: block;
+}
+.dropdown-menu > li > a:hover:after {
+    text-decoration: underline;
+    transform: rotate(-90deg);
+}
